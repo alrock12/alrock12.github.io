@@ -1,0 +1,110 @@
+body {
+	background-color: #B2D3F7;
+	color: black;
+	font-family: "Bookman Old Style";
+	font-size: 12pt;
+}
+
+#banner{
+	height: 170px;
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+
+h1 {
+	padding: 45px 0px 0px 75px;
+	color: #062B54;
+	font-size: 48pt;
+	font-family: "Bookman Old Style";
+}
+
+
+button {
+	float: right;
+}
+
+#menu {
+		background-color: #062B54 ;
+		margin-left: auto;
+		margin-right: auto;
+		width:960px;
+		padding: 5px 0px 5px 0px;
+		text-align: center;
+		color: white;
+		border-bottom: thick solid white;
+
+		}
+
+	li {
+		list-style: none;
+	}
+ 		
+	li.hor{
+		display:inline;
+		padding-right: 35px;
+	}		
+
+
+#workspace {
+	background-color: white;
+	width: 960px;
+	min-height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+		
+#sidebar{
+	background: #062B54;
+	float:right;
+	width: 150px;
+	min-height: 600px;
+	color: white;
+}
+
+#sidebarlist{
+	margin:-15px 0px 0px -40px;
+}
+
+	li.side{
+		line-height: 40pt;
+		width: 150px;
+		border-bottom: thin solid white;
+		text-align:center;
+	}
+
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+a:hover {
+	text-decoration: underline;
+	}	
+		
+#sitemap {
+	width: 750px;
+	margin: 25px auto 0 auto;
+	text-align: center;
+	color:white;
+}
+
+h3 {
+	margin-bottom: 0px;
+	font-size: 10pt;
+}
+
+.sitecol{
+	color:black;
+	text-align: center;
+	float:left;
+	min-width: 33%;
+	font-size: 8pt;
+	line-height: 18pt;
+
+}
+
+
+
+ 
